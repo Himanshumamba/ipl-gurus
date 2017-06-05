@@ -1,0 +1,49 @@
+h3.inner-tittle.two {
+background-color: aquamarine;
+text-align: center;
+padding: 20px;
+margin:70% 28% 1% 20%;
+}
+h3.inner-tittle.twos {
+background-color: aquamarine;
+text-align: center;
+padding: 20px;
+margin:10% 28% 5% 20%;
+}
+.graph {
+padding: 1% 17% 1% 18%;
+background-color: #AACFF9;
+}
+
+body {
+background-color: #AACFF9;
+overflow-x: hidden;
+font-family: monospace;
+}
+th {
+text-align: center;
+font-size: 17px;
+font-family: monospace;
+}
+.canvas-container {
+float: right;
+}
+.canvas-container-line {
+float: right;
+}
+canvas#line3 {
+margin-top: 5%;
+}
+h3.winingper {
+text-align: center;
+background-color: bisque;
+width: 44%;
+margin: 2% auto;
+}
+h3.win-score {
+width: 52%;
+background-color: darksalmon;
+padding: 4px;
+text-align: center;
+margin-top: 45%;
+}
